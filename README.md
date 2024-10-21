@@ -1,4 +1,4 @@
-# ¡Hola a todos! 👋
+# ¡Hola a todos! 💻
 
 ![Banner](16alonsomangas@gmail.com.png)
 
