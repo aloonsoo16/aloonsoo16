@@ -38,7 +38,7 @@ Si deseas estar al tanto de mis proyectos, repositorios y actualizaciones sobre 
     Estas son algunos de los lenguajes y tecnologías que conozco actualmente. Como he citado anteriormente, soy una persona en constante aprendizaje, por lo que puedo adaptarme y aprender otras tecnologías que actualmente no conozco.
 </p><br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,php,java,mysql,github,wordpress" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,java,bootstrap,nextjs,tailwindcss,mysql,github,wordpress,figma" alt="My Skills" />
 </a>
 <br><br>
 
