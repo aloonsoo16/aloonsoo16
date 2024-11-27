@@ -9,19 +9,18 @@
     Me apasiona la programación, especialmente el diseño y desarrollo de interfaces, y constantemente aprendo nuevas tecnologías.
 </p>
 <p>
-    Aunque en el grado superior que he cursado he aprendido diferentes lenguajes como Java, HTML, o CSS, actualmente estoy aprendiendo lenguajes como JavaScript. Además, he aprendido diferentes lenguajes y tecnologías por mi cuenta, como PHP, o frameworks como BootStrap. Actualmente estoy desarrollando diferentes proyectos para poner en práctica los conocimientos y habilidades que voy aprendiendo. ¡Muy pronto los subiré!
+    Aunque en el grado superior que he cursado he aprendido diferentes lenguajes como Java, HTML, o CSS, actualmente estoy aprendiendo lenguajes como JavaScript. Además, he aprendido diferentes lenguajes y tecnologías por mi cuenta, como PHP, o frameworks como BootStrap, Tailwindcss o NextsJs, y para poner en práctica mis conocimientos estoy desarrollando diferentes proyectos.
 </p>
 <p>
     En mi tiempo libre, me gusta realizar actividades como salir a caminar, ir al gimnasio, jugar al fútbol, o ver series y películas. Además, soy un apasionado del mundo del motor. Estoy muy emocionado por dar mis primeros pasos en el mercado laboral. Como desarrollador de software y aplicaciones, estoy entusiasmado por aplicar mis conocimientos y habilidades en un entorno profesional.
 </p>
 <br>
-
 <h2>🌟 Proyectos Destacados</h2>
 <br>
 <p>
-Puedes explorar mis repositorios, donde iré subiendo los proyectos que vaya desarrollando a lo largo de mi carrera. Aunque aún no he finalizado ningún proyecto, te invito a echar un vistazo a mi portafolio, el cual puede servir como referencia de un proyecto frontend. 
+Carsell. Un proyecto FullStack desarrollado en Nextjs. Te invito a explorarlo. No te dejará indiferente.
 </p>
-<a href="" target="blank">
+<a href="https://github.com/aloonsoo16/Carsell" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@aloonsoo16" />
 </a><br><br>
 <p>
