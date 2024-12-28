@@ -44,7 +44,7 @@ Si deseas estar al tanto de mis proyectos, repositorios y actualizaciones sobre 
 <h2>🏙️ Localización</h2>
 <br>
 <p>
-    Actualmente, resido en 📌 Ávila, mi ciudad natal. Estoy dispuesto a trabajar en diferentes ubicaciones dentro de España, pero mi preferencia es encontrar trabajo en la provincia de Ávila o en remoto.
+    Actualmente, resido en 📌 Ávila, mi ciudad natal. Estoy dispuesto a trabajar en diferentes ubicaciones dentro de España.
 </p>
 <br>
 
