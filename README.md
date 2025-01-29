@@ -25,9 +25,9 @@ Carsell. Un proyecto FullStack desarrollado en Nextjs. Te invito a explorarlo. N
 </a><br><br>
 <p>
   <p>
-Chat. Un proyecto FullStack desarrollado con el stack MERN. Te invito a probarlo!
+Say. Un proyecto FullStack desarrollado con el stack MERN. Te invito a probarlo!
 </p>
-<a href="https://github.com/aloonsoo16/chat" target="blank">
+<a href="https://github.com/aloonsoo16/say" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@aloonsoo16" />
 </a><br><br>
 <p>
@@ -44,7 +44,7 @@ Si deseas estar al tanto de mis proyectos, repositorios y actualizaciones sobre 
     Estas son algunos de los lenguajes y tecnologías que conozco actualmente.
 </p><br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,java,nextjs,react,nodejs,tailwindcss,bootstrap,postgresql,mongodb,github,wordpress,figma" alt="Mis Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,java,nextjs,react,nodejs,expressjs,tailwindcss,bootstrap,postgresql,mongodb,github,wordpress,figma" alt="Mis Skills" />
 </a>
 <br><br>
 
