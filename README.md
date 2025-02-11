@@ -30,6 +30,15 @@ Say. Un proyecto FullStack desarrollado con el stack MERN. Te invito a probarlo!
 <a href="https://github.com/aloonsoo16/say" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@aloonsoo16" />
 </a><br><br>
+</p>
+<p>
+  <p>
+Nex. Un proyecto FullStack desarrollado en Nextjs. Te invito a explorarlo. Seguro que te gusta.
+</p>
+<a href="https://github.com/aloonsoo16/nex" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@aloonsoo16" />
+</a><br><br>
+</p>
 <p>
 Si deseas estar al tanto de mis proyectos, repositorios y actualizaciones sobre mi carrera, te invito a visitar mi perfil de LinkedIn. Allí comparto novedades sobre mis avances y los proyectos en los que estoy trabajando. ¡No dudes en conectar!
 </p>
