@@ -44,7 +44,7 @@ Si deseas estar al tanto de mis proyectos, repositorios y actualizaciones sobre 
     Estas son algunos de los lenguajes y tecnologías que conozco actualmente.
 </p><br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,java,nextjs,react,nodejs,expressjs,tailwindcss,bootstrap,postgresql,mongodb,github,wordpress,figma" alt="Mis Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,java,nextjs,react,nodejs,expressjs,tailwindcss,bootstrap,postgresql,mongodb,git,github,wordpress,figma" alt="Mis Skills" />
 </a>
 <br><br>
 
