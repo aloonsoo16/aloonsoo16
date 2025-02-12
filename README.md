@@ -9,7 +9,7 @@
     Me apasiona la programación, especialmente el diseño y desarrollo de interfaces, y constantemente aprendo nuevas tecnologías.
 </p>
 <p>
-    Aunque en el grado superior que he cursado he aprendido diferentes lenguajes como Java, HTML, o CSS, actualmente estoy aprendiendo lenguajes como JavaScript. Además, he aprendido diferentes lenguajes y tecnologías por mi cuenta, como PHP, o frameworks como BootStrap, Tailwindcss o NextsJs, y para poner en práctica mis conocimientos estoy desarrollando diferentes proyectos.
+    Conozco diferentes lenguajes como JavaScript, TypeScript, Java, PHP, HTML y CSS.
 </p>
 <p>
     En mi tiempo libre, me gusta realizar actividades como salir a caminar, ir al gimnasio, jugar al fútbol, o ver series y películas. Además, soy un apasionado del mundo del motor. Estoy muy emocionado por dar mis primeros pasos en el mercado laboral. Como desarrollador de software y aplicaciones, estoy entusiasmado por aplicar mis conocimientos y habilidades en un entorno profesional.
