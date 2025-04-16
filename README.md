@@ -5,11 +5,11 @@
 <h2>✌️ Presentación</h2>
 <br>
 <p>
-    Soy Alonso, un desarrollador de aplicaciones multiplataforma. Actualmente trabajando en <strong>BMI AHORRO</strong> 🎓<br>
+    Soy Alonso, un desarrollador de software. Actualmente trabajando en <strong>BMI AHORRO</strong><br>
     Apasionado por la tecnología. Disfruto aprendiendo constantemente, y me gusta ponerme nuevos retos constantemente.
 </p>
 <p>
-    Conozco diferentes lenguajes como JavaScript, TypeScript, Java, PHP, HTML y CSS, además de muchas otras tecnologías.
+    Conozco diferentes lenguajes como JavaScript, TypeScript, Java, PHP, HTML y CSS, además de otras tecnologías modernas para desarrollo web y móvil.
 </p>
 <br>
 <h2>🌟 Proyectos Destacados</h2>
