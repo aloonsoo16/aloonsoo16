@@ -5,14 +5,11 @@
 <h2>✌️ Presentación</h2>
 <br>
 <p>
-    Soy Alonso, un desarrollador fullstack recién graduado en <strong>Desarrollo de aplicaciones multiplataforma</strong> 🎓<br>
-    Me apasiona la programación, especialmente el diseño y desarrollo de interfaces, y constantemente aprendo nuevas tecnologías.
+    Soy Alonso, un desarrollador de aplicaciones multiplataforma. Actualmente trabajando en <strong>BMI AHORRO</strong> 🎓<br>
+    Apasionado por la tecnología. Disfruto aprendiendo constantemente, y me gusta ponerme nuevos retos constantemente.
 </p>
 <p>
-    Conozco diferentes lenguajes como JavaScript, TypeScript, Java, PHP, HTML y CSS.
-</p>
-<p>
-    En mi tiempo libre, me gusta realizar actividades como salir a caminar, ir al gimnasio, jugar al fútbol, o ver series y películas. Además, soy un apasionado del mundo del motor. Estoy muy emocionado por dar mis primeros pasos en el mercado laboral. Como desarrollador de software y aplicaciones, estoy entusiasmado por aplicar mis conocimientos y habilidades en un entorno profesional.
+    Conozco diferentes lenguajes como JavaScript, TypeScript, Java, PHP, HTML y CSS, además de muchas otras tecnologías.
 </p>
 <br>
 <h2>🌟 Proyectos Destacados</h2>
@@ -60,7 +57,7 @@ Si deseas estar al tanto de mis proyectos, repositorios y actualizaciones sobre 
 <h2>🏙️ Localización</h2>
 <br>
 <p>
-    Actualmente, resido en 📌 Ávila, mi ciudad natal. Estoy dispuesto a trabajar en diferentes ubicaciones dentro de España.
+    Actualmente viviendo en 📌 Ávila, España
 </p>
 <br>
 
